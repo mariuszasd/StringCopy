@@ -1,6 +1,9 @@
+
 #include <iostream>
 
 using namespace std;
+
+/* brief: Copy C style string from source to destination */
 void StringCopy(char destination[], char source[]);
 
 int main()
